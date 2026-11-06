@@ -1,0 +1,2 @@
+id,station_id,station_name,calibrated_pm25,reference_pm25,residual_error,trust_flag,status,version,created_at
+1,STN-01,Hyderabad Central,42.5,41.0,1.5,GREEN,provisional,1,2026-11-06 23:54:14
