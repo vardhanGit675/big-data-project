@@ -1,13 +1,7 @@
 {
   "functions": {
-    "public/*.php": {
-      "runtime": "vercel-php@0.7.0"
+    "api/*.php": {
+      "maxDuration": 10
     }
-  },
-  "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "/public/$1"
-    }
-  ]
+  }
 }
